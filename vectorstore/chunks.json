@@ -1,0 +1,362 @@
+[
+  {
+    "text": "# Budgeting\n\nA budget is a plan for money before it is spent. Its purpose is not restriction\nbut visibility: deciding where money should go in advance, rather than\ndiscovering afterwards where it went.",
+    "metadata": {
+      "source": "budgeting.md",
+      "title": "Budgeting",
+      "section": "",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "## The 50/30/20 rule\n\nThe 50/30/20 rule splits take-home income into three parts:\n\n- **50% needs.** Housing, utilities, groceries, transport to work, insurance,\n  minimum debt repayments. Things that continue whether or not you want them to.\n- **30% wants.** Eating out, shopping, subscriptions, entertainment, travel.\n  Spending that improves life but could be paused.\n- **20% savings and debt repayment.** Building an emergency fund, investing,\n  and paying down debt faster than the minimum.\n\nIt is popular because it is easy to remember and needs no categories beyond\nthree. It is a starting point, not a law. In cities with high rent, needs alone\ncan exceed 50%, and forcing the split can mean pretending an essential cost is\noptional. The useful discipline is protecting the 20% first, then letting needs\nand wants divide what remains.",
+    "metadata": {
+      "source": "budgeting.md",
+      "title": "Budgeting",
+      "section": "The 50/30/20 rule",
+      "chunk_id": 1
+    }
+  },
+  {
+    "text": "A common mistake is applying the percentages to gross salary. They apply to\ntake-home pay, after tax and mandatory deductions.",
+    "metadata": {
+      "source": "budgeting.md",
+      "title": "Budgeting",
+      "section": "The 50/30/20 rule",
+      "chunk_id": 2
+    }
+  },
+  {
+    "text": "## Zero-based budgeting\n\nEvery unit of income is assigned a job until nothing is unallocated: income\nminus all allocations equals zero. Savings and investments are allocations, not\nleftovers. This is more work than 50/30/20 but eliminates the vague surplus that\ntends to be spent by default.",
+    "metadata": {
+      "source": "budgeting.md",
+      "title": "Budgeting",
+      "section": "Zero-based budgeting",
+      "chunk_id": 3
+    }
+  },
+  {
+    "text": "## Envelope budgeting\n\nEach category gets a fixed allowance for the month. When the allowance is spent,\nspending in that category stops until the next month. Originally literal cash in\nenvelopes, now usually separate accounts or app categories. Effective for\ncategories with many small discretionary purchases, where a total is easy to\nlose track of.",
+    "metadata": {
+      "source": "budgeting.md",
+      "title": "Budgeting",
+      "section": "Envelope budgeting",
+      "chunk_id": 4
+    }
+  },
+  {
+    "text": "## Paying yourself first\n\nSavings are transferred out on payday, before discretionary spending begins,\nrather than being whatever survives the month. This reverses the usual order and\nis one of the most reliable ways to raise a savings rate, because it removes the\nneed for month-long willpower.",
+    "metadata": {
+      "source": "budgeting.md",
+      "title": "Budgeting",
+      "section": "Paying yourself first",
+      "chunk_id": 5
+    }
+  },
+  {
+    "text": "## Building a budget from history\n\nA budget invented from nothing usually fails, because it reflects intention\nrather than behaviour. A more durable approach starts from what actually\nhappened over recent months:\n\n1. Total each category over the last three to six months.\n2. Take the **median** rather than the average. One unusual month drags an\n   average upward, and budgeting to that inflated figure defeats the purpose.\n3. Fund essentials at that level, since they are largely fixed.\n4. Set a savings target before allocating discretionary spending.\n5. Fit discretionary categories into what remains.\n\nFixed costs such as rent need no headroom — they are the same every month, and\npadding them just hides money that could be saved.",
+    "metadata": {
+      "source": "budgeting.md",
+      "title": "Budgeting",
+      "section": "Building a budget from history",
+      "chunk_id": 6
+    }
+  },
+  {
+    "text": "## Why budgets fail\n\n- Built on gross rather than take-home income.\n- No allowance for irregular annual costs like insurance premiums.\n- Too many categories to track.\n- No buffer, so a single unexpected expense makes the whole plan void.\n- Treating savings as a remainder rather than an allocation.",
+    "metadata": {
+      "source": "budgeting.md",
+      "title": "Budgeting",
+      "section": "Why budgets fail",
+      "chunk_id": 7
+    }
+  },
+  {
+    "text": "# Credit and credit scores\n\nCredit is borrowed money that must be repaid, usually with interest. How it is\nmanaged is recorded and affects the cost and availability of future borrowing.",
+    "metadata": {
+      "source": "credit.md",
+      "title": "Credit and credit scores",
+      "section": "",
+      "chunk_id": 8
+    }
+  },
+  {
+    "text": "## Credit utilisation\n\nCredit utilisation is the share of available credit currently in use:\n\nutilisation = balance owed / total credit limit\n\nA card with a 100,000 limit carrying a 30,000 balance is at 30% utilisation.\n\nKeeping utilisation **below 30%** is the usual guidance, and lower is generally\nbetter. High utilisation suggests dependence on borrowing, and it is one of the\nlarger factors in most scoring models.\n\nTwo details are easy to miss. Utilisation is normally measured on the statement\ndate, not at month end — so a balance cleared after the statement is generated\ncan still be reported as high. And it is assessed both per card and across all\ncards combined.",
+    "metadata": {
+      "source": "credit.md",
+      "title": "Credit and credit scores",
+      "section": "Credit utilisation",
+      "chunk_id": 9
+    }
+  },
+  {
+    "text": "## Credit scores\n\nA credit score summarises borrowing history into a single number, typically\nbetween 300 and 900 in India, and lenders use it to price and approve credit.\nThe main inputs, roughly in order of weight:\n\n- **Payment history.** Whether past dues were paid on time. The single largest\n  factor. One missed payment can affect a score for years.\n- **Credit utilisation.** As above.\n- **Age of credit history.** Longer histories are viewed more favourably, which\n  is why closing an old card can lower a score.\n- **Credit mix.** Some variety across secured and unsecured credit.\n- **Recent enquiries.** Several applications in a short period suggest\n  difficulty obtaining credit.",
+    "metadata": {
+      "source": "credit.md",
+      "title": "Credit and credit scores",
+      "section": "Credit scores",
+      "chunk_id": 10
+    }
+  },
+  {
+    "text": "## Paying in full versus the minimum\n\nPaying a credit card in full by the due date usually incurs no interest. Paying\nonly the minimum — often around 5% of the balance — is expensive: card interest\nis typically in the region of 30-45% a year, and the interest-free period is\nusually lost on new purchases until the balance is cleared entirely.\n\nMinimum payments are structured so that a balance can persist for years while\nmost of each payment goes to interest rather than principal.",
+    "metadata": {
+      "source": "credit.md",
+      "title": "Credit and credit scores",
+      "section": "Paying in full versus the minimum",
+      "chunk_id": 11
+    }
+  },
+  {
+    "text": "## Common misunderstandings\n\n- **Checking your own score does not lower it.** Your own check is a soft\n  enquiry; only a lender's application check is a hard enquiry.\n- **Carrying a balance does not build credit.** Paying in full on time builds\n  credit. Carrying a balance only creates interest.\n- **Closing unused cards is not automatically helpful.** It reduces total\n  available credit, which raises utilisation, and can shorten credit history.\n- **No credit history is not the same as good credit.** Someone who has never\n  borrowed may find it harder to borrow than someone with a modest good record.",
+    "metadata": {
+      "source": "credit.md",
+      "title": "Credit and credit scores",
+      "section": "Common misunderstandings",
+      "chunk_id": 12
+    }
+  },
+  {
+    "text": "# Emergency funds\n\nAn emergency fund is money set aside specifically for unexpected expenses:\nmedical costs, urgent repairs, sudden travel, or a period without income. Its\npurpose is to absorb a shock without borrowing at high interest or selling\nlong-term investments at a bad time.",
+    "metadata": {
+      "source": "emergency_fund.md",
+      "title": "Emergency funds",
+      "section": "",
+      "chunk_id": 13
+    }
+  },
+  {
+    "text": "## What counts as an emergency\n\nAn emergency is unexpected, necessary and urgent. A broken boiler qualifies. A\nholiday, a phone upgrade or a festival purchase does not, however desirable —\nthose are planned expenses, and planning for them separately is what keeps the\nemergency fund intact.",
+    "metadata": {
+      "source": "emergency_fund.md",
+      "title": "Emergency funds",
+      "section": "What counts as an emergency",
+      "chunk_id": 14
+    }
+  },
+  {
+    "text": "## How much to hold\n\nThe common guideline is **three to six months of essential expenses** — not\nthree to six months of income, and not of total spending. What matters is the\ncost of continuing to live: rent, utilities, food, transport, insurance, minimum\ndebt payments.\n\nWhere within that range depends on how stable income is and how many people\ndepend on it:\n\n- **Three months** suits stable salaried income, dual-income households, or\n  someone with few dependants and marketable skills.\n- **Six months or more** suits variable or commission-based income, freelance or\n  contract work, a single-income household, or anyone supporting dependants.\n\nSomeone spending 40,000 a month on essentials is therefore looking at a target\nof roughly 120,000 to 240,000.",
+    "metadata": {
+      "source": "emergency_fund.md",
+      "title": "Emergency funds",
+      "section": "How much to hold",
+      "chunk_id": 15
+    }
+  },
+  {
+    "text": "## Where to keep it\n\nThe fund must be available within a day or two and must not fall in value. That\nmeans a savings account, a sweep-in deposit, or a liquid fund — not equities,\nnot long-tenure fixed deposits with penalties, and not anything whose value\nmoves with the market. Accepting a lower return is the point: this money buys\ncertainty, not growth.\n\nKeeping it in a separate account from day-to-day spending matters more than it\nsounds. Money that shares an account with routine spending tends to be spent.",
+    "metadata": {
+      "source": "emergency_fund.md",
+      "title": "Emergency funds",
+      "section": "Where to keep it",
+      "chunk_id": 16
+    }
+  },
+  {
+    "text": "## Building one\n\nBuilding an emergency fund from zero can feel slow enough to be discouraging.\nTwo things help. First, set an initial milestone of one month of essentials —\nreachable in a few months, and enough to cover most common shocks. Second,\nautomate a transfer on payday so it does not depend on remembering.\n\nIf there is high-interest debt, such as a credit card balance, the usual order\nis to build a small buffer of about one month first, then clear that debt, then\nreturn to the full three-to-six-month target. The interest saved outweighs the\ninterest earned.",
+    "metadata": {
+      "source": "emergency_fund.md",
+      "title": "Emergency funds",
+      "section": "Building one",
+      "chunk_id": 17
+    }
+  },
+  {
+    "text": "## After using it\n\nAn emergency fund is meant to be spent when an emergency arrives — using it is\nnot a failure. Rebuilding it becomes the priority afterwards, ahead of\ndiscretionary spending, until it returns to target.",
+    "metadata": {
+      "source": "emergency_fund.md",
+      "title": "Emergency funds",
+      "section": "After using it",
+      "chunk_id": 18
+    }
+  },
+  {
+    "text": "# Investing basics\n\nInvesting means committing money to assets expected to grow over time, accepting\nthat value can fall in the short term. It is distinct from saving, where the\npriority is that the money is intact when needed.\n\nThis is general education. Nothing here is a recommendation to buy or sell any\nspecific investment.",
+    "metadata": {
+      "source": "investing_basics.md",
+      "title": "Investing basics",
+      "section": "",
+      "chunk_id": 19
+    }
+  },
+  {
+    "text": "## Compound interest\n\nCompound interest is interest earned on both the original amount and on the\ninterest already accumulated. Growth accelerates, because each period starts\nfrom a larger base.\n\nfuture value = principal x (1 + rate) ^ periods\n\n10,000 at 8% a year becomes about 21,600 after ten years and about 46,600 after\ntwenty. The first decade adds around 11,600; the second adds around 25,000 from\nthe same starting deposit. Nothing changed except elapsed time.\n\nThis is why starting early matters more than starting large. Someone investing\n5,000 a month from age 25 typically ends up ahead of someone investing 10,000 a\nmonth from age 40, despite contributing less in total.\n\nCompounding works in reverse on debt. Credit card interest compounds against the\nborrower with the same mathematics.",
+    "metadata": {
+      "source": "investing_basics.md",
+      "title": "Investing basics",
+      "section": "Compound interest",
+      "chunk_id": 20
+    }
+  },
+  {
+    "text": "## The rule of 72\n\nDividing 72 by the annual return gives the approximate years to double. At 8%,\nroughly nine years. At 12%, roughly six. Useful for quick mental comparison, not\nfor precision.",
+    "metadata": {
+      "source": "investing_basics.md",
+      "title": "Investing basics",
+      "section": "The rule of 72",
+      "chunk_id": 21
+    }
+  },
+  {
+    "text": "## Risk and return\n\nHigher expected returns come with greater variability. That variability is the\ncost of the return, not a flaw to be engineered away.\n\n- **Low risk** — savings accounts, fixed deposits, government securities.\n  Modest, predictable returns.\n- **Moderate risk** — debt funds, balanced funds, corporate bonds.\n- **Higher risk** — equities and equity funds. Historically the strongest\n  long-term returns, with large short-term falls along the way.\n\nThe relevant question is not which is best but which matches the time horizon.\nMoney needed in two years does not belong in equities, regardless of expected\nreturn, because the horizon offers no time to recover from a fall.",
+    "metadata": {
+      "source": "investing_basics.md",
+      "title": "Investing basics",
+      "section": "Risk and return",
+      "chunk_id": 22
+    }
+  },
+  {
+    "text": "## Diversification\n\nSpreading money across assets that do not move together reduces the impact of\nany single one performing badly. Holding ten stocks in the same industry is far\nless diversified than it appears, because they tend to fall together.\n\nDiversification reduces the risk specific to one company or sector. It does not\nremove market-wide risk.",
+    "metadata": {
+      "source": "investing_basics.md",
+      "title": "Investing basics",
+      "section": "Diversification",
+      "chunk_id": 23
+    }
+  },
+  {
+    "text": "## Inflation\n\nInflation erodes purchasing power. At 6% inflation, money held in cash loses\nroughly half its real value over twelve years. A savings account paying 3% while\ninflation runs at 6% is losing about 3% a year in real terms.\n\nThis is the argument for investing money that is not needed soon — and equally\nthe argument for keeping an emergency fund in cash anyway, because certainty of\nvalue matters more than real return for money that must be available.",
+    "metadata": {
+      "source": "investing_basics.md",
+      "title": "Investing basics",
+      "section": "Inflation",
+      "chunk_id": 24
+    }
+  },
+  {
+    "text": "## Sequence\n\nA widely used ordering, before investing begins:\n\n1. Cover essential expenses.\n2. Build an emergency fund of three to six months of essentials.\n3. Clear high-interest debt, particularly credit cards.\n4. Then invest with a horizon of five years or more.\n\nInvesting while carrying credit card debt at 36% is usually a losing trade: few\ninvestments reliably return more than that, and the debt's cost is certain while\nthe return is not.",
+    "metadata": {
+      "source": "investing_basics.md",
+      "title": "Investing basics",
+      "section": "Sequence",
+      "chunk_id": 25
+    }
+  },
+  {
+    "text": "# Loans and debt\n\nA loan is borrowed money repaid over time with interest. The two questions that\nmatter most are what happens if repayment fails, and how the interest is\ncalculated.",
+    "metadata": {
+      "source": "loans.md",
+      "title": "Loans and debt",
+      "section": "",
+      "chunk_id": 26
+    }
+  },
+  {
+    "text": "## Secured versus unsecured\n\nA **secured loan** is backed by an asset — the collateral. Home loans are\nsecured against the property, vehicle loans against the vehicle, gold loans\nagainst pledged gold. Because the lender can recover the asset on default, risk\nis lower and interest rates are correspondingly lower. The consequence of\ndefault is loss of the asset.\n\nAn **unsecured loan** has no collateral. Personal loans, credit cards and most\neducation loans fall here. Approval depends on income and credit history rather\nthan an asset, so rates are higher. Default does not cost a specific asset but\ndamages credit standing and can lead to recovery proceedings.\n\nAs a rough ordering of cost, from cheapest to most expensive: home loan, then\nvehicle loan, then education loan, then personal loan, then credit card\nborrowing.",
+    "metadata": {
+      "source": "loans.md",
+      "title": "Loans and debt",
+      "section": "Secured versus unsecured",
+      "chunk_id": 27
+    }
+  },
+  {
+    "text": "## EMI\n\nAn EMI, or equated monthly instalment, is a fixed monthly payment covering both\ninterest and principal so the loan is fully repaid by the end of its term.\n\nThe payment stays constant, but its composition changes. Early instalments are\nmostly interest, because interest is charged on a large outstanding balance.\nLater instalments are mostly principal. This is why repaying early in the term\nsaves far more interest than repaying the same amount near the end, and why the\ntotal interest paid over a long loan can be a substantial fraction of the amount\nborrowed.\n\nExtending the tenure lowers the monthly payment and raises the total interest —\noften considerably. A longer loan is not a cheaper loan.",
+    "metadata": {
+      "source": "loans.md",
+      "title": "Loans and debt",
+      "section": "EMI",
+      "chunk_id": 28
+    }
+  },
+  {
+    "text": "## Fixed and floating rates\n\nA **fixed rate** stays the same for the term, or an agreed part of it. Payments\nare predictable, usually at a slightly higher starting rate.\n\nA **floating rate** moves with a benchmark. Payments can fall, and can equally\nrise. Lenders often absorb changes by extending the tenure rather than raising\nthe EMI, which keeps the monthly figure stable while increasing total interest.",
+    "metadata": {
+      "source": "loans.md",
+      "title": "Loans and debt",
+      "section": "Fixed and floating rates",
+      "chunk_id": 29
+    }
+  },
+  {
+    "text": "## Debt-to-income\n\nLenders compare total monthly debt payments with monthly income. A ratio below\nabout 36%, with housing under roughly 28%, is a common comfort threshold.\nBeyond that, borrowing is generally harder and more expensive, and the budget\nhas little room to absorb a shock.",
+    "metadata": {
+      "source": "loans.md",
+      "title": "Loans and debt",
+      "section": "Debt-to-income",
+      "chunk_id": 30
+    }
+  },
+  {
+    "text": "## Order of repayment\n\nWith multiple debts, two approaches are widely used:\n\n- **Avalanche.** Pay the highest interest rate first. Mathematically optimal —\n  it minimises total interest paid.\n- **Snowball.** Pay the smallest balance first. Costs slightly more overall but\n  clears individual debts sooner, which some people find easier to sustain.\n\nEither way, minimum payments continue on everything else. The avalanche saves\nmore money; the snowball is sometimes more likely to be followed to completion.",
+    "metadata": {
+      "source": "loans.md",
+      "title": "Loans and debt",
+      "section": "Order of repayment",
+      "chunk_id": 31
+    }
+  },
+  {
+    "text": "## Refinancing\n\nReplacing a loan with a cheaper one can reduce cost, but processing fees,\nprepayment penalties and a reset tenure can erase the benefit. The comparison\nthat matters is total remaining cost under each option, not the interest rate\nalone.",
+    "metadata": {
+      "source": "loans.md",
+      "title": "Loans and debt",
+      "section": "Refinancing",
+      "chunk_id": 32
+    }
+  },
+  {
+    "text": "# Saving and savings rate\n\nSaving is the gap between income and spending. Everything else — where to put\nthe money, what return it earns — matters less than the size of that gap,\nespecially early on.",
+    "metadata": {
+      "source": "saving.md",
+      "title": "Saving and savings rate",
+      "section": "",
+      "chunk_id": 33
+    }
+  },
+  {
+    "text": "## Savings rate\n\nThe savings rate is the share of take-home income not spent:\n\nsavings rate = (income - expenses) / income\n\nSomeone earning 60,000 and spending 42,500 has a savings rate of about 29%.\n\nIt is a more useful measure than the absolute amount saved, because it adjusts\nfor income. Rising income with an unchanged savings rate means spending grew in\nstep — the pattern usually called lifestyle inflation.",
+    "metadata": {
+      "source": "saving.md",
+      "title": "Saving and savings rate",
+      "section": "Savings rate",
+      "chunk_id": 34
+    }
+  },
+  {
+    "text": "## Why the rate matters more than the return\n\nEarly on, the amount saved dominates the return earned. Saving an extra 5,000 a\nmonth adds 60,000 a year with certainty, while chasing two extra percentage\npoints of return on a 200,000 portfolio adds 4,000 and is not guaranteed. Only\nonce the invested amount is large does return begin to dominate. This is why\nadvice tends to emphasise the savings rate first and portfolio construction\nsecond.",
+    "metadata": {
+      "source": "saving.md",
+      "title": "Saving and savings rate",
+      "section": "Why the rate matters more than the return",
+      "chunk_id": 35
+    }
+  },
+  {
+    "text": "## Paying yourself first\n\nTransferring savings on payday, before discretionary spending, is more reliable\nthan saving what remains at month end. It converts a month of daily decisions\ninto one automated transfer.",
+    "metadata": {
+      "source": "saving.md",
+      "title": "Saving and savings rate",
+      "section": "Paying yourself first",
+      "chunk_id": 36
+    }
+  },
+  {
+    "text": "## Sinking funds\n\nNot every large expense is an emergency. Insurance premiums, festival spending,\nannual subscriptions and travel are predictable — they are simply not monthly.\nA sinking fund sets aside a twelfth of the annual cost each month, so the\nexpense arrives already funded. This is what stops predictable costs from\ndraining the emergency fund.\n\nAn annual premium of 18,000 becomes a monthly allocation of 1,500.",
+    "metadata": {
+      "source": "saving.md",
+      "title": "Saving and savings rate",
+      "section": "Sinking funds",
+      "chunk_id": 37
+    }
+  },
+  {
+    "text": "## Where savings go, by time horizon\n\n- **Under a year** — savings account or liquid fund. Capital stability matters\n  more than return.\n- **One to five years** — fixed deposits, recurring deposits, short-duration\n  debt funds. Some return, limited volatility.\n- **Over five years** — long-term instruments including equity, where time\n  smooths out volatility.\n\nMatching the instrument to when the money is needed matters more than maximising\nreturn. Money required next year does not belong anywhere its value can fall.",
+    "metadata": {
+      "source": "saving.md",
+      "title": "Saving and savings rate",
+      "section": "Where savings go, by time horizon",
+      "chunk_id": 38
+    }
+  },
+  {
+    "text": "## Reducing spending without tracking every rupee\n\nThe largest savings usually come from a few recurring decisions rather than many\nsmall ones. Rent, vehicle costs, and subscriptions are decided once and then\nrepeat automatically every month. Reviewing those few commitments is generally\nworth more than scrutinising daily purchases.",
+    "metadata": {
+      "source": "saving.md",
+      "title": "Saving and savings rate",
+      "section": "Reducing spending without tracking every rupee",
+      "chunk_id": 39
+    }
+  }
+]
