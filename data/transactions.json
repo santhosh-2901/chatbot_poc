@@ -1,0 +1,5102 @@
+[
+  {
+    "transaction_id": "TXN0001",
+    "user_id": "USER001",
+    "date": "2026-03-01",
+    "merchant": "House Rent",
+    "category": "Housing",
+    "type": "expense",
+    "amount": 15000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0002",
+    "user_id": "USER001",
+    "date": "2026-03-01",
+    "merchant": "Salary",
+    "category": "Income",
+    "type": "income",
+    "amount": 60000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0003",
+    "user_id": "USER001",
+    "date": "2026-03-01",
+    "merchant": "Croma",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 460,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0004",
+    "user_id": "USER001",
+    "date": "2026-03-01",
+    "merchant": "Decathlon",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 600,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0005",
+    "user_id": "USER001",
+    "date": "2026-03-01",
+    "merchant": "HP Petrol Pump",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 470,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0006",
+    "user_id": "USER002",
+    "date": "2026-03-01",
+    "merchant": "House Rent",
+    "category": "Housing",
+    "type": "expense",
+    "amount": 12000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0007",
+    "user_id": "USER002",
+    "date": "2026-03-01",
+    "merchant": "Salary",
+    "category": "Income",
+    "type": "income",
+    "amount": 45000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0008",
+    "user_id": "USER001",
+    "date": "2026-03-02",
+    "merchant": "Netflix",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 649,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0009",
+    "user_id": "USER002",
+    "date": "2026-03-02",
+    "merchant": "Croma",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 410,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0010",
+    "user_id": "USER002",
+    "date": "2026-03-03",
+    "merchant": "More Supermarket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 390,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0011",
+    "user_id": "USER002",
+    "date": "2026-03-03",
+    "merchant": "Netflix Mobile",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 199,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0012",
+    "user_id": "USER001",
+    "date": "2026-03-04",
+    "merchant": "Spotify Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 199,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0013",
+    "user_id": "USER002",
+    "date": "2026-03-04",
+    "merchant": "Myntra",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 370,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0014",
+    "user_id": "USER001",
+    "date": "2026-03-05",
+    "merchant": "Blinkit",
+    "category": "Food",
+    "type": "expense",
+    "amount": 370,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0015",
+    "user_id": "USER001",
+    "date": "2026-03-05",
+    "merchant": "Reliance Fresh",
+    "category": "Food",
+    "type": "expense",
+    "amount": 220,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0016",
+    "user_id": "USER001",
+    "date": "2026-03-05",
+    "merchant": "Decathlon",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 430,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0017",
+    "user_id": "USER001",
+    "date": "2026-03-05",
+    "merchant": "Decathlon",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 700,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0018",
+    "user_id": "USER001",
+    "date": "2026-03-05",
+    "merchant": "HP Petrol Pump",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 450,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0019",
+    "user_id": "USER002",
+    "date": "2026-03-05",
+    "merchant": "Barbeque Nation",
+    "category": "Food",
+    "type": "expense",
+    "amount": 200,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0020",
+    "user_id": "USER002",
+    "date": "2026-03-05",
+    "merchant": "More Supermarket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 360,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0021",
+    "user_id": "USER002",
+    "date": "2026-03-05",
+    "merchant": "Flipkart",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 490,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0022",
+    "user_id": "USER002",
+    "date": "2026-03-05",
+    "merchant": "Spotify Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 119,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0023",
+    "user_id": "USER001",
+    "date": "2026-03-06",
+    "merchant": "Barbeque Nation",
+    "category": "Food",
+    "type": "expense",
+    "amount": 430,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0024",
+    "user_id": "USER001",
+    "date": "2026-03-06",
+    "merchant": "More Supermarket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 340,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0025",
+    "user_id": "USER001",
+    "date": "2026-03-06",
+    "merchant": "Amazon Prime",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 299,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0026",
+    "user_id": "USER001",
+    "date": "2026-03-08",
+    "merchant": "BESCOM Electricity",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1180,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0027",
+    "user_id": "USER002",
+    "date": "2026-03-08",
+    "merchant": "Amazon Prime",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 299,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0028",
+    "user_id": "USER002",
+    "date": "2026-03-08",
+    "merchant": "BESCOM Electricity",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1280,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0029",
+    "user_id": "USER001",
+    "date": "2026-03-09",
+    "merchant": "Google One",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 130,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0030",
+    "user_id": "USER002",
+    "date": "2026-03-09",
+    "merchant": "Zomato",
+    "category": "Food",
+    "type": "expense",
+    "amount": 280,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0031",
+    "user_id": "USER002",
+    "date": "2026-03-09",
+    "merchant": "Indian Oil",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 260,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0032",
+    "user_id": "USER002",
+    "date": "2026-03-09",
+    "merchant": "Rapido",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 160,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0033",
+    "user_id": "USER001",
+    "date": "2026-03-10",
+    "merchant": "BigBasket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 350,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0034",
+    "user_id": "USER002",
+    "date": "2026-03-10",
+    "merchant": "Zomato",
+    "category": "Food",
+    "type": "expense",
+    "amount": 290,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0035",
+    "user_id": "USER002",
+    "date": "2026-03-10",
+    "merchant": "IRCTC",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 310,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0036",
+    "user_id": "USER001",
+    "date": "2026-03-11",
+    "merchant": "YouTube Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 149,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0037",
+    "user_id": "USER001",
+    "date": "2026-03-11",
+    "merchant": "IRCTC",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 260,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0038",
+    "user_id": "USER001",
+    "date": "2026-03-11",
+    "merchant": "BWSSB Water",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 830,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0039",
+    "user_id": "USER002",
+    "date": "2026-03-11",
+    "merchant": "Ola",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 180,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0040",
+    "user_id": "USER002",
+    "date": "2026-03-11",
+    "merchant": "BWSSB Water",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 720,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0041",
+    "user_id": "USER002",
+    "date": "2026-03-12",
+    "merchant": "Zomato",
+    "category": "Food",
+    "type": "expense",
+    "amount": 390,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0042",
+    "user_id": "USER002",
+    "date": "2026-03-12",
+    "merchant": "Google One",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 130,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0043",
+    "user_id": "USER002",
+    "date": "2026-03-12",
+    "merchant": "Uber",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 200,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0044",
+    "user_id": "USER002",
+    "date": "2026-03-13",
+    "merchant": "Third Wave Coffee",
+    "category": "Food",
+    "type": "expense",
+    "amount": 300,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0045",
+    "user_id": "USER001",
+    "date": "2026-03-14",
+    "merchant": "Cult.fit Membership",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 274,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0046",
+    "user_id": "USER002",
+    "date": "2026-03-14",
+    "merchant": "Barbeque Nation",
+    "category": "Food",
+    "type": "expense",
+    "amount": 380,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0047",
+    "user_id": "USER001",
+    "date": "2026-03-15",
+    "merchant": "Myntra",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 550,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0048",
+    "user_id": "USER001",
+    "date": "2026-03-15",
+    "merchant": "ACT Fibernet",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1060,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0049",
+    "user_id": "USER002",
+    "date": "2026-03-15",
+    "merchant": "YouTube Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 149,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0050",
+    "user_id": "USER002",
+    "date": "2026-03-15",
+    "merchant": "ACT Fibernet",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 790,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0051",
+    "user_id": "USER002",
+    "date": "2026-03-16",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 430,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0052",
+    "user_id": "USER002",
+    "date": "2026-03-16",
+    "merchant": "IRCTC",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 200,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0053",
+    "user_id": "USER001",
+    "date": "2026-03-17",
+    "merchant": "Uber",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 460,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0054",
+    "user_id": "USER001",
+    "date": "2026-03-18",
+    "merchant": "Blinkit",
+    "category": "Food",
+    "type": "expense",
+    "amount": 400,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0055",
+    "user_id": "USER001",
+    "date": "2026-03-18",
+    "merchant": "Reliance Digital",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 660,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0056",
+    "user_id": "USER002",
+    "date": "2026-03-18",
+    "merchant": "HP Petrol Pump",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 160,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0057",
+    "user_id": "USER002",
+    "date": "2026-03-18",
+    "merchant": "Namma Metro",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 240,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0058",
+    "user_id": "USER001",
+    "date": "2026-03-19",
+    "merchant": "Reliance Fresh",
+    "category": "Food",
+    "type": "expense",
+    "amount": 270,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0059",
+    "user_id": "USER001",
+    "date": "2026-03-19",
+    "merchant": "Airtel Postpaid",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1730,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0060",
+    "user_id": "USER002",
+    "date": "2026-03-19",
+    "merchant": "Airtel Postpaid",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 810,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0061",
+    "user_id": "USER002",
+    "date": "2026-03-20",
+    "merchant": "Zomato",
+    "category": "Food",
+    "type": "expense",
+    "amount": 210,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0062",
+    "user_id": "USER002",
+    "date": "2026-03-20",
+    "merchant": "Nykaa",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 490,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0063",
+    "user_id": "USER001",
+    "date": "2026-03-21",
+    "merchant": "More Supermarket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 430,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0064",
+    "user_id": "USER001",
+    "date": "2026-03-22",
+    "merchant": "Swiggy",
+    "category": "Food",
+    "type": "expense",
+    "amount": 430,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0065",
+    "user_id": "USER001",
+    "date": "2026-03-22",
+    "merchant": "Zomato",
+    "category": "Food",
+    "type": "expense",
+    "amount": 400,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0066",
+    "user_id": "USER002",
+    "date": "2026-03-22",
+    "merchant": "IRCTC",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 240,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0067",
+    "user_id": "USER002",
+    "date": "2026-03-24",
+    "merchant": "More Supermarket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 270,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0068",
+    "user_id": "USER002",
+    "date": "2026-03-24",
+    "merchant": "Third Wave Coffee",
+    "category": "Food",
+    "type": "expense",
+    "amount": 250,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0069",
+    "user_id": "USER001",
+    "date": "2026-03-25",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 250,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0070",
+    "user_id": "USER001",
+    "date": "2026-03-25",
+    "merchant": "HP Petrol Pump",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 270,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0071",
+    "user_id": "USER001",
+    "date": "2026-03-26",
+    "merchant": "BigBasket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 460,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0072",
+    "user_id": "USER001",
+    "date": "2026-03-26",
+    "merchant": "HP Petrol Pump",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 330,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0073",
+    "user_id": "USER002",
+    "date": "2026-03-26",
+    "merchant": "HP Petrol Pump",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 270,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0074",
+    "user_id": "USER001",
+    "date": "2026-03-27",
+    "merchant": "Namma Metro",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 490,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0075",
+    "user_id": "USER002",
+    "date": "2026-03-27",
+    "merchant": "BigBasket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 370,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0076",
+    "user_id": "USER002",
+    "date": "2026-03-27",
+    "merchant": "Domino's Pizza",
+    "category": "Food",
+    "type": "expense",
+    "amount": 430,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0077",
+    "user_id": "USER001",
+    "date": "2026-03-28",
+    "merchant": "Blinkit",
+    "category": "Food",
+    "type": "expense",
+    "amount": 340,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0078",
+    "user_id": "USER001",
+    "date": "2026-03-28",
+    "merchant": "Namma Metro",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 470,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0079",
+    "user_id": "USER002",
+    "date": "2026-03-28",
+    "merchant": "IKEA",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 600,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0080",
+    "user_id": "USER002",
+    "date": "2026-03-28",
+    "merchant": "Reliance Digital",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 440,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0081",
+    "user_id": "USER001",
+    "date": "2026-03-29",
+    "merchant": "Local Kirana Store",
+    "category": "Food",
+    "type": "expense",
+    "amount": 330,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0082",
+    "user_id": "USER002",
+    "date": "2026-03-29",
+    "merchant": "Barbeque Nation",
+    "category": "Food",
+    "type": "expense",
+    "amount": 420,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0083",
+    "user_id": "USER002",
+    "date": "2026-03-29",
+    "merchant": "Domino's Pizza",
+    "category": "Food",
+    "type": "expense",
+    "amount": 430,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0084",
+    "user_id": "USER002",
+    "date": "2026-03-29",
+    "merchant": "IRCTC",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 170,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0085",
+    "user_id": "USER001",
+    "date": "2026-03-30",
+    "merchant": "Barbeque Nation",
+    "category": "Food",
+    "type": "expense",
+    "amount": 330,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0086",
+    "user_id": "USER001",
+    "date": "2026-03-30",
+    "merchant": "BigBasket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 400,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0087",
+    "user_id": "USER001",
+    "date": "2026-03-31",
+    "merchant": "Reliance Fresh",
+    "category": "Food",
+    "type": "expense",
+    "amount": 450,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0088",
+    "user_id": "USER002",
+    "date": "2026-03-31",
+    "merchant": "Rapido",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 210,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0089",
+    "user_id": "USER001",
+    "date": "2026-04-01",
+    "merchant": "Zomato",
+    "category": "Food",
+    "type": "expense",
+    "amount": 380,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0090",
+    "user_id": "USER001",
+    "date": "2026-04-01",
+    "merchant": "House Rent",
+    "category": "Housing",
+    "type": "expense",
+    "amount": 15000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0091",
+    "user_id": "USER001",
+    "date": "2026-04-01",
+    "merchant": "Salary",
+    "category": "Income",
+    "type": "income",
+    "amount": 60000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0092",
+    "user_id": "USER001",
+    "date": "2026-04-01",
+    "merchant": "Ola",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 420,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0093",
+    "user_id": "USER002",
+    "date": "2026-04-01",
+    "merchant": "House Rent",
+    "category": "Housing",
+    "type": "expense",
+    "amount": 12000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0094",
+    "user_id": "USER002",
+    "date": "2026-04-01",
+    "merchant": "Salary",
+    "category": "Income",
+    "type": "income",
+    "amount": 45000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0095",
+    "user_id": "USER001",
+    "date": "2026-04-02",
+    "merchant": "Swiggy",
+    "category": "Food",
+    "type": "expense",
+    "amount": 590,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0096",
+    "user_id": "USER001",
+    "date": "2026-04-02",
+    "merchant": "IKEA",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 1170,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0097",
+    "user_id": "USER001",
+    "date": "2026-04-02",
+    "merchant": "Netflix",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 649,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0098",
+    "user_id": "USER002",
+    "date": "2026-04-02",
+    "merchant": "Barbeque Nation",
+    "category": "Food",
+    "type": "expense",
+    "amount": 370,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0099",
+    "user_id": "USER002",
+    "date": "2026-04-02",
+    "merchant": "Domino's Pizza",
+    "category": "Food",
+    "type": "expense",
+    "amount": 270,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0100",
+    "user_id": "USER002",
+    "date": "2026-04-02",
+    "merchant": "Zomato",
+    "category": "Food",
+    "type": "expense",
+    "amount": 300,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0101",
+    "user_id": "USER001",
+    "date": "2026-04-03",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 340,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0102",
+    "user_id": "USER002",
+    "date": "2026-04-03",
+    "merchant": "Netflix Mobile",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 199,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0103",
+    "user_id": "USER002",
+    "date": "2026-04-03",
+    "merchant": "HP Petrol Pump",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 240,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0104",
+    "user_id": "USER001",
+    "date": "2026-04-04",
+    "merchant": "Spotify Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 199,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0105",
+    "user_id": "USER002",
+    "date": "2026-04-04",
+    "merchant": "Indian Oil",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 240,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0106",
+    "user_id": "USER001",
+    "date": "2026-04-05",
+    "merchant": "More Supermarket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 460,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0107",
+    "user_id": "USER002",
+    "date": "2026-04-05",
+    "merchant": "Local Kirana Store",
+    "category": "Food",
+    "type": "expense",
+    "amount": 340,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0108",
+    "user_id": "USER002",
+    "date": "2026-04-05",
+    "merchant": "Spotify Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 119,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0109",
+    "user_id": "USER001",
+    "date": "2026-04-06",
+    "merchant": "Third Wave Coffee",
+    "category": "Food",
+    "type": "expense",
+    "amount": 570,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0110",
+    "user_id": "USER001",
+    "date": "2026-04-06",
+    "merchant": "Amazon Prime",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 299,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0111",
+    "user_id": "USER002",
+    "date": "2026-04-06",
+    "merchant": "HP Petrol Pump",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 310,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0112",
+    "user_id": "USER001",
+    "date": "2026-04-07",
+    "merchant": "Ola",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 250,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0113",
+    "user_id": "USER002",
+    "date": "2026-04-07",
+    "merchant": "Domino's Pizza",
+    "category": "Food",
+    "type": "expense",
+    "amount": 240,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0114",
+    "user_id": "USER002",
+    "date": "2026-04-07",
+    "merchant": "Domino's Pizza",
+    "category": "Food",
+    "type": "expense",
+    "amount": 290,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0115",
+    "user_id": "USER001",
+    "date": "2026-04-08",
+    "merchant": "BESCOM Electricity",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1610,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0116",
+    "user_id": "USER002",
+    "date": "2026-04-08",
+    "merchant": "Blinkit",
+    "category": "Food",
+    "type": "expense",
+    "amount": 320,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0117",
+    "user_id": "USER002",
+    "date": "2026-04-08",
+    "merchant": "Amazon Prime",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 299,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0118",
+    "user_id": "USER002",
+    "date": "2026-04-08",
+    "merchant": "BESCOM Electricity",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 840,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0119",
+    "user_id": "USER001",
+    "date": "2026-04-09",
+    "merchant": "Google One",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 130,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0120",
+    "user_id": "USER001",
+    "date": "2026-04-09",
+    "merchant": "Rapido",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 320,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0121",
+    "user_id": "USER001",
+    "date": "2026-04-09",
+    "merchant": "Uber",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 310,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0122",
+    "user_id": "USER002",
+    "date": "2026-04-09",
+    "merchant": "Barbeque Nation",
+    "category": "Food",
+    "type": "expense",
+    "amount": 400,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0123",
+    "user_id": "USER002",
+    "date": "2026-04-10",
+    "merchant": "Blinkit",
+    "category": "Food",
+    "type": "expense",
+    "amount": 320,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0124",
+    "user_id": "USER001",
+    "date": "2026-04-11",
+    "merchant": "YouTube Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 149,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0125",
+    "user_id": "USER001",
+    "date": "2026-04-11",
+    "merchant": "BWSSB Water",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1020,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0126",
+    "user_id": "USER002",
+    "date": "2026-04-11",
+    "merchant": "Barbeque Nation",
+    "category": "Food",
+    "type": "expense",
+    "amount": 420,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0127",
+    "user_id": "USER002",
+    "date": "2026-04-11",
+    "merchant": "BWSSB Water",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1060,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0128",
+    "user_id": "USER001",
+    "date": "2026-04-12",
+    "merchant": "Indian Oil",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 210,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0129",
+    "user_id": "USER002",
+    "date": "2026-04-12",
+    "merchant": "Google One",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 130,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0130",
+    "user_id": "USER002",
+    "date": "2026-04-12",
+    "merchant": "Namma Metro",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 190,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0131",
+    "user_id": "USER002",
+    "date": "2026-04-12",
+    "merchant": "Uber",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 210,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0132",
+    "user_id": "USER001",
+    "date": "2026-04-13",
+    "merchant": "Nykaa",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 1120,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0133",
+    "user_id": "USER001",
+    "date": "2026-04-13",
+    "merchant": "IRCTC",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 420,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0134",
+    "user_id": "USER001",
+    "date": "2026-04-13",
+    "merchant": "IRCTC",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 440,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0135",
+    "user_id": "USER002",
+    "date": "2026-04-13",
+    "merchant": "Blinkit",
+    "category": "Food",
+    "type": "expense",
+    "amount": 300,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0136",
+    "user_id": "USER002",
+    "date": "2026-04-13",
+    "merchant": "Nykaa",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 1010,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0137",
+    "user_id": "USER002",
+    "date": "2026-04-13",
+    "merchant": "Indian Oil",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 350,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0138",
+    "user_id": "USER001",
+    "date": "2026-04-14",
+    "merchant": "Blinkit",
+    "category": "Food",
+    "type": "expense",
+    "amount": 270,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0139",
+    "user_id": "USER001",
+    "date": "2026-04-14",
+    "merchant": "Local Kirana Store",
+    "category": "Food",
+    "type": "expense",
+    "amount": 350,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0140",
+    "user_id": "USER001",
+    "date": "2026-04-14",
+    "merchant": "Cult.fit Membership",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 274,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0141",
+    "user_id": "USER002",
+    "date": "2026-04-14",
+    "merchant": "Swiggy",
+    "category": "Food",
+    "type": "expense",
+    "amount": 490,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0142",
+    "user_id": "USER002",
+    "date": "2026-04-14",
+    "merchant": "Namma Metro",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 340,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0143",
+    "user_id": "USER001",
+    "date": "2026-04-15",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 360,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0144",
+    "user_id": "USER001",
+    "date": "2026-04-15",
+    "merchant": "ACT Fibernet",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1470,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0145",
+    "user_id": "USER002",
+    "date": "2026-04-15",
+    "merchant": "YouTube Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 149,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0146",
+    "user_id": "USER002",
+    "date": "2026-04-15",
+    "merchant": "ACT Fibernet",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 940,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0147",
+    "user_id": "USER001",
+    "date": "2026-04-16",
+    "merchant": "Amazon",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 520,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0148",
+    "user_id": "USER002",
+    "date": "2026-04-16",
+    "merchant": "Indian Oil",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 300,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0149",
+    "user_id": "USER001",
+    "date": "2026-04-18",
+    "merchant": "Domino's Pizza",
+    "category": "Food",
+    "type": "expense",
+    "amount": 400,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0150",
+    "user_id": "USER002",
+    "date": "2026-04-18",
+    "merchant": "Freelance Project",
+    "category": "Income",
+    "type": "income",
+    "amount": 8000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0151",
+    "user_id": "USER002",
+    "date": "2026-04-18",
+    "merchant": "Rapido",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 250,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0152",
+    "user_id": "USER001",
+    "date": "2026-04-19",
+    "merchant": "Domino's Pizza",
+    "category": "Food",
+    "type": "expense",
+    "amount": 330,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0153",
+    "user_id": "USER001",
+    "date": "2026-04-19",
+    "merchant": "Third Wave Coffee",
+    "category": "Food",
+    "type": "expense",
+    "amount": 570,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0154",
+    "user_id": "USER001",
+    "date": "2026-04-19",
+    "merchant": "Ola",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 210,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0155",
+    "user_id": "USER001",
+    "date": "2026-04-19",
+    "merchant": "Airtel Postpaid",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0156",
+    "user_id": "USER002",
+    "date": "2026-04-19",
+    "merchant": "Airtel Postpaid",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 960,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0157",
+    "user_id": "USER001",
+    "date": "2026-04-20",
+    "merchant": "Reliance Digital",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 840,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0158",
+    "user_id": "USER001",
+    "date": "2026-04-20",
+    "merchant": "HP Petrol Pump",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 240,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0159",
+    "user_id": "USER002",
+    "date": "2026-04-20",
+    "merchant": "HP Petrol Pump",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 150,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0160",
+    "user_id": "USER001",
+    "date": "2026-04-21",
+    "merchant": "Third Wave Coffee",
+    "category": "Food",
+    "type": "expense",
+    "amount": 540,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0161",
+    "user_id": "USER002",
+    "date": "2026-04-21",
+    "merchant": "Local Kirana Store",
+    "category": "Food",
+    "type": "expense",
+    "amount": 290,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0162",
+    "user_id": "USER002",
+    "date": "2026-04-21",
+    "merchant": "Flipkart",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 1030,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0163",
+    "user_id": "USER001",
+    "date": "2026-04-23",
+    "merchant": "Indian Oil",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 260,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0164",
+    "user_id": "USER002",
+    "date": "2026-04-23",
+    "merchant": "Croma",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 1060,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0165",
+    "user_id": "USER001",
+    "date": "2026-04-24",
+    "merchant": "BigBasket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 480,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0166",
+    "user_id": "USER001",
+    "date": "2026-04-25",
+    "merchant": "Rapido",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 270,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0167",
+    "user_id": "USER002",
+    "date": "2026-04-25",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 440,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0168",
+    "user_id": "USER002",
+    "date": "2026-04-25",
+    "merchant": "Reliance Fresh",
+    "category": "Food",
+    "type": "expense",
+    "amount": 390,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0169",
+    "user_id": "USER001",
+    "date": "2026-04-26",
+    "merchant": "HP Petrol Pump",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 250,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0170",
+    "user_id": "USER002",
+    "date": "2026-04-26",
+    "merchant": "Local Kirana Store",
+    "category": "Food",
+    "type": "expense",
+    "amount": 380,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0171",
+    "user_id": "USER002",
+    "date": "2026-04-26",
+    "merchant": "Indian Oil",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 160,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0172",
+    "user_id": "USER002",
+    "date": "2026-04-27",
+    "merchant": "Zomato",
+    "category": "Food",
+    "type": "expense",
+    "amount": 240,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0173",
+    "user_id": "USER002",
+    "date": "2026-04-27",
+    "merchant": "IRCTC",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 160,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0174",
+    "user_id": "USER001",
+    "date": "2026-04-28",
+    "merchant": "Local Kirana Store",
+    "category": "Food",
+    "type": "expense",
+    "amount": 600,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0175",
+    "user_id": "USER001",
+    "date": "2026-04-28",
+    "merchant": "Decathlon",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 950,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0176",
+    "user_id": "USER001",
+    "date": "2026-04-29",
+    "merchant": "Domino's Pizza",
+    "category": "Food",
+    "type": "expense",
+    "amount": 290,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0177",
+    "user_id": "USER001",
+    "date": "2026-04-30",
+    "merchant": "More Supermarket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 270,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0178",
+    "user_id": "USER001",
+    "date": "2026-05-01",
+    "merchant": "Blinkit",
+    "category": "Food",
+    "type": "expense",
+    "amount": 360,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0179",
+    "user_id": "USER001",
+    "date": "2026-05-01",
+    "merchant": "House Rent",
+    "category": "Housing",
+    "type": "expense",
+    "amount": 15000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0180",
+    "user_id": "USER001",
+    "date": "2026-05-01",
+    "merchant": "Salary",
+    "category": "Income",
+    "type": "income",
+    "amount": 60000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0181",
+    "user_id": "USER001",
+    "date": "2026-05-01",
+    "merchant": "IKEA",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 590,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0182",
+    "user_id": "USER002",
+    "date": "2026-05-01",
+    "merchant": "Blinkit",
+    "category": "Food",
+    "type": "expense",
+    "amount": 360,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0183",
+    "user_id": "USER002",
+    "date": "2026-05-01",
+    "merchant": "House Rent",
+    "category": "Housing",
+    "type": "expense",
+    "amount": 12000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0184",
+    "user_id": "USER002",
+    "date": "2026-05-01",
+    "merchant": "Salary",
+    "category": "Income",
+    "type": "income",
+    "amount": 45000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0185",
+    "user_id": "USER001",
+    "date": "2026-05-02",
+    "merchant": "Third Wave Coffee",
+    "category": "Food",
+    "type": "expense",
+    "amount": 260,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0186",
+    "user_id": "USER001",
+    "date": "2026-05-02",
+    "merchant": "Croma",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 480,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0187",
+    "user_id": "USER001",
+    "date": "2026-05-02",
+    "merchant": "Netflix",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 649,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0188",
+    "user_id": "USER001",
+    "date": "2026-05-02",
+    "merchant": "IRCTC",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 410,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0189",
+    "user_id": "USER002",
+    "date": "2026-05-03",
+    "merchant": "Netflix Mobile",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 199,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0190",
+    "user_id": "USER001",
+    "date": "2026-05-04",
+    "merchant": "Spotify Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 199,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0191",
+    "user_id": "USER002",
+    "date": "2026-05-04",
+    "merchant": "Barbeque Nation",
+    "category": "Food",
+    "type": "expense",
+    "amount": 330,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0192",
+    "user_id": "USER002",
+    "date": "2026-05-04",
+    "merchant": "Swiggy",
+    "category": "Food",
+    "type": "expense",
+    "amount": 380,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0193",
+    "user_id": "USER001",
+    "date": "2026-05-05",
+    "merchant": "More Supermarket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 260,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0194",
+    "user_id": "USER002",
+    "date": "2026-05-05",
+    "merchant": "More Supermarket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 270,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0195",
+    "user_id": "USER002",
+    "date": "2026-05-05",
+    "merchant": "Spotify Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 119,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0196",
+    "user_id": "USER001",
+    "date": "2026-05-06",
+    "merchant": "Amazon Prime",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 299,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0197",
+    "user_id": "USER002",
+    "date": "2026-05-06",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 410,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0198",
+    "user_id": "USER002",
+    "date": "2026-05-06",
+    "merchant": "Indian Oil",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 300,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0199",
+    "user_id": "USER001",
+    "date": "2026-05-08",
+    "merchant": "BigBasket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 360,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0200",
+    "user_id": "USER001",
+    "date": "2026-05-08",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 270,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0201",
+    "user_id": "USER001",
+    "date": "2026-05-08",
+    "merchant": "BESCOM Electricity",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1570,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0202",
+    "user_id": "USER002",
+    "date": "2026-05-08",
+    "merchant": "BigBasket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 290,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0203",
+    "user_id": "USER002",
+    "date": "2026-05-08",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 390,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0204",
+    "user_id": "USER002",
+    "date": "2026-05-08",
+    "merchant": "Local Kirana Store",
+    "category": "Food",
+    "type": "expense",
+    "amount": 410,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0205",
+    "user_id": "USER002",
+    "date": "2026-05-08",
+    "merchant": "Croma",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 640,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0206",
+    "user_id": "USER002",
+    "date": "2026-05-08",
+    "merchant": "Amazon Prime",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 299,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0207",
+    "user_id": "USER002",
+    "date": "2026-05-08",
+    "merchant": "BESCOM Electricity",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 960,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0208",
+    "user_id": "USER001",
+    "date": "2026-05-09",
+    "merchant": "Google One",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 130,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0209",
+    "user_id": "USER001",
+    "date": "2026-05-09",
+    "merchant": "IRCTC",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 480,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0210",
+    "user_id": "USER002",
+    "date": "2026-05-09",
+    "merchant": "Barbeque Nation",
+    "category": "Food",
+    "type": "expense",
+    "amount": 200,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0211",
+    "user_id": "USER002",
+    "date": "2026-05-09",
+    "merchant": "BigBasket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 200,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0212",
+    "user_id": "USER001",
+    "date": "2026-05-10",
+    "merchant": "Croma",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 730,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0213",
+    "user_id": "USER002",
+    "date": "2026-05-10",
+    "merchant": "Reliance Digital",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 470,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0214",
+    "user_id": "USER001",
+    "date": "2026-05-11",
+    "merchant": "More Supermarket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 240,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0215",
+    "user_id": "USER001",
+    "date": "2026-05-11",
+    "merchant": "Reliance Fresh",
+    "category": "Food",
+    "type": "expense",
+    "amount": 380,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0216",
+    "user_id": "USER001",
+    "date": "2026-05-11",
+    "merchant": "YouTube Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 149,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0217",
+    "user_id": "USER001",
+    "date": "2026-05-11",
+    "merchant": "Indian Oil",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 380,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0218",
+    "user_id": "USER001",
+    "date": "2026-05-11",
+    "merchant": "BWSSB Water",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1420,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0219",
+    "user_id": "USER002",
+    "date": "2026-05-11",
+    "merchant": "IRCTC",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 270,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0220",
+    "user_id": "USER002",
+    "date": "2026-05-11",
+    "merchant": "Rapido",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 200,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0221",
+    "user_id": "USER002",
+    "date": "2026-05-11",
+    "merchant": "BWSSB Water",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 990,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0222",
+    "user_id": "USER001",
+    "date": "2026-05-12",
+    "merchant": "Local Kirana Store",
+    "category": "Food",
+    "type": "expense",
+    "amount": 400,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0223",
+    "user_id": "USER002",
+    "date": "2026-05-12",
+    "merchant": "Google One",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 130,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0224",
+    "user_id": "USER001",
+    "date": "2026-05-13",
+    "merchant": "HP Petrol Pump",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 390,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0225",
+    "user_id": "USER001",
+    "date": "2026-05-14",
+    "merchant": "Cult.fit Membership",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 274,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0226",
+    "user_id": "USER001",
+    "date": "2026-05-14",
+    "merchant": "Uber",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 480,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0227",
+    "user_id": "USER002",
+    "date": "2026-05-14",
+    "merchant": "Swiggy",
+    "category": "Food",
+    "type": "expense",
+    "amount": 210,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0228",
+    "user_id": "USER002",
+    "date": "2026-05-14",
+    "merchant": "HP Petrol Pump",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 220,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0229",
+    "user_id": "USER001",
+    "date": "2026-05-15",
+    "merchant": "Zomato",
+    "category": "Food",
+    "type": "expense",
+    "amount": 480,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0230",
+    "user_id": "USER001",
+    "date": "2026-05-15",
+    "merchant": "ACT Fibernet",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 900,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0231",
+    "user_id": "USER002",
+    "date": "2026-05-15",
+    "merchant": "BigBasket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 430,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0232",
+    "user_id": "USER002",
+    "date": "2026-05-15",
+    "merchant": "YouTube Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 149,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0233",
+    "user_id": "USER002",
+    "date": "2026-05-15",
+    "merchant": "HP Petrol Pump",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 250,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0234",
+    "user_id": "USER002",
+    "date": "2026-05-15",
+    "merchant": "ACT Fibernet",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 720,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0235",
+    "user_id": "USER001",
+    "date": "2026-05-16",
+    "merchant": "Namma Metro",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 370,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0236",
+    "user_id": "USER002",
+    "date": "2026-05-17",
+    "merchant": "Myntra",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 540,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0237",
+    "user_id": "USER001",
+    "date": "2026-05-18",
+    "merchant": "Reliance Fresh",
+    "category": "Food",
+    "type": "expense",
+    "amount": 410,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0238",
+    "user_id": "USER001",
+    "date": "2026-05-19",
+    "merchant": "BigBasket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 490,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0239",
+    "user_id": "USER001",
+    "date": "2026-05-19",
+    "merchant": "Airtel Postpaid",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1010,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0240",
+    "user_id": "USER002",
+    "date": "2026-05-19",
+    "merchant": "Swiggy",
+    "category": "Food",
+    "type": "expense",
+    "amount": 250,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0241",
+    "user_id": "USER002",
+    "date": "2026-05-19",
+    "merchant": "Airtel Postpaid",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 830,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0242",
+    "user_id": "USER001",
+    "date": "2026-05-20",
+    "merchant": "BigBasket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 470,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0243",
+    "user_id": "USER001",
+    "date": "2026-05-23",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 320,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0244",
+    "user_id": "USER001",
+    "date": "2026-05-23",
+    "merchant": "Local Kirana Store",
+    "category": "Food",
+    "type": "expense",
+    "amount": 510,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0245",
+    "user_id": "USER001",
+    "date": "2026-05-23",
+    "merchant": "Croma",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 800,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0246",
+    "user_id": "USER002",
+    "date": "2026-05-23",
+    "merchant": "HP Petrol Pump",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 140,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0247",
+    "user_id": "USER001",
+    "date": "2026-05-24",
+    "merchant": "Reliance Digital",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 510,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0248",
+    "user_id": "USER002",
+    "date": "2026-05-24",
+    "merchant": "Swiggy",
+    "category": "Food",
+    "type": "expense",
+    "amount": 390,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0249",
+    "user_id": "USER002",
+    "date": "2026-05-24",
+    "merchant": "Rapido",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 140,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0250",
+    "user_id": "USER002",
+    "date": "2026-05-25",
+    "merchant": "Blinkit",
+    "category": "Food",
+    "type": "expense",
+    "amount": 300,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0251",
+    "user_id": "USER002",
+    "date": "2026-05-25",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 380,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0252",
+    "user_id": "USER002",
+    "date": "2026-05-25",
+    "merchant": "Uber",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 300,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0253",
+    "user_id": "USER001",
+    "date": "2026-05-26",
+    "merchant": "Blinkit",
+    "category": "Food",
+    "type": "expense",
+    "amount": 450,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0254",
+    "user_id": "USER001",
+    "date": "2026-05-26",
+    "merchant": "Namma Metro",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 480,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0255",
+    "user_id": "USER002",
+    "date": "2026-05-26",
+    "merchant": "Amazon",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 750,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0256",
+    "user_id": "USER001",
+    "date": "2026-05-27",
+    "merchant": "Domino's Pizza",
+    "category": "Food",
+    "type": "expense",
+    "amount": 310,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0257",
+    "user_id": "USER002",
+    "date": "2026-05-27",
+    "merchant": "HP Petrol Pump",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 150,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0258",
+    "user_id": "USER001",
+    "date": "2026-05-28",
+    "merchant": "Domino's Pizza",
+    "category": "Food",
+    "type": "expense",
+    "amount": 430,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0259",
+    "user_id": "USER001",
+    "date": "2026-05-28",
+    "merchant": "Uber",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 310,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0260",
+    "user_id": "USER002",
+    "date": "2026-05-28",
+    "merchant": "HP Petrol Pump",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 170,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0261",
+    "user_id": "USER002",
+    "date": "2026-05-29",
+    "merchant": "Namma Metro",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 140,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0262",
+    "user_id": "USER002",
+    "date": "2026-05-29",
+    "merchant": "Ola",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 220,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0263",
+    "user_id": "USER001",
+    "date": "2026-05-31",
+    "merchant": "Reliance Digital",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 790,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0264",
+    "user_id": "USER001",
+    "date": "2026-06-01",
+    "merchant": "House Rent",
+    "category": "Housing",
+    "type": "expense",
+    "amount": 15000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0265",
+    "user_id": "USER001",
+    "date": "2026-06-01",
+    "merchant": "Salary",
+    "category": "Income",
+    "type": "income",
+    "amount": 60000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0266",
+    "user_id": "USER002",
+    "date": "2026-06-01",
+    "merchant": "House Rent",
+    "category": "Housing",
+    "type": "expense",
+    "amount": 12000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0267",
+    "user_id": "USER002",
+    "date": "2026-06-01",
+    "merchant": "Salary",
+    "category": "Income",
+    "type": "income",
+    "amount": 45000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0268",
+    "user_id": "USER001",
+    "date": "2026-06-02",
+    "merchant": "Zomato",
+    "category": "Food",
+    "type": "expense",
+    "amount": 700,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0269",
+    "user_id": "USER001",
+    "date": "2026-06-02",
+    "merchant": "Flipkart",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 1070,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0270",
+    "user_id": "USER001",
+    "date": "2026-06-02",
+    "merchant": "Netflix",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 649,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0271",
+    "user_id": "USER002",
+    "date": "2026-06-02",
+    "merchant": "Ola",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 340,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0272",
+    "user_id": "USER002",
+    "date": "2026-06-02",
+    "merchant": "Ola",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 510,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0273",
+    "user_id": "USER001",
+    "date": "2026-06-03",
+    "merchant": "Uber",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 420,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0274",
+    "user_id": "USER002",
+    "date": "2026-06-03",
+    "merchant": "Netflix Mobile",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 199,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0275",
+    "user_id": "USER001",
+    "date": "2026-06-04",
+    "merchant": "Spotify Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 199,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0276",
+    "user_id": "USER002",
+    "date": "2026-06-05",
+    "merchant": "Reliance Fresh",
+    "category": "Food",
+    "type": "expense",
+    "amount": 240,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0277",
+    "user_id": "USER002",
+    "date": "2026-06-05",
+    "merchant": "Spotify Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 119,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0278",
+    "user_id": "USER002",
+    "date": "2026-06-05",
+    "merchant": "IRCTC",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 360,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0279",
+    "user_id": "USER002",
+    "date": "2026-06-05",
+    "merchant": "Namma Metro",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 380,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0280",
+    "user_id": "USER002",
+    "date": "2026-06-05",
+    "merchant": "Ola",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 290,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0281",
+    "user_id": "USER001",
+    "date": "2026-06-06",
+    "merchant": "Amazon Prime",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 299,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0282",
+    "user_id": "USER002",
+    "date": "2026-06-06",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 450,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0283",
+    "user_id": "USER001",
+    "date": "2026-06-07",
+    "merchant": "IKEA",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 950,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0284",
+    "user_id": "USER002",
+    "date": "2026-06-07",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 390,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0285",
+    "user_id": "USER001",
+    "date": "2026-06-08",
+    "merchant": "BESCOM Electricity",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 990,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0286",
+    "user_id": "USER002",
+    "date": "2026-06-08",
+    "merchant": "Amazon Prime",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 299,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0287",
+    "user_id": "USER002",
+    "date": "2026-06-08",
+    "merchant": "BESCOM Electricity",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 720,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0288",
+    "user_id": "USER001",
+    "date": "2026-06-09",
+    "merchant": "Google One",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 130,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0289",
+    "user_id": "USER002",
+    "date": "2026-06-09",
+    "merchant": "Nykaa",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 760,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0290",
+    "user_id": "USER002",
+    "date": "2026-06-10",
+    "merchant": "Third Wave Coffee",
+    "category": "Food",
+    "type": "expense",
+    "amount": 530,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0291",
+    "user_id": "USER002",
+    "date": "2026-06-10",
+    "merchant": "Nykaa",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 620,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0292",
+    "user_id": "USER002",
+    "date": "2026-06-10",
+    "merchant": "HP Petrol Pump",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 510,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0293",
+    "user_id": "USER002",
+    "date": "2026-06-10",
+    "merchant": "Indian Oil",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 350,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0294",
+    "user_id": "USER001",
+    "date": "2026-06-11",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 490,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0295",
+    "user_id": "USER001",
+    "date": "2026-06-11",
+    "merchant": "YouTube Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 149,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0296",
+    "user_id": "USER001",
+    "date": "2026-06-11",
+    "merchant": "BWSSB Water",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1570,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0297",
+    "user_id": "USER002",
+    "date": "2026-06-11",
+    "merchant": "Third Wave Coffee",
+    "category": "Food",
+    "type": "expense",
+    "amount": 410,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0298",
+    "user_id": "USER002",
+    "date": "2026-06-11",
+    "merchant": "BWSSB Water",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1070,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0299",
+    "user_id": "USER001",
+    "date": "2026-06-12",
+    "merchant": "Local Kirana Store",
+    "category": "Food",
+    "type": "expense",
+    "amount": 470,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0300",
+    "user_id": "USER002",
+    "date": "2026-06-12",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 450,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0301",
+    "user_id": "USER002",
+    "date": "2026-06-12",
+    "merchant": "Google One",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 130,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0302",
+    "user_id": "USER001",
+    "date": "2026-06-13",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 450,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0303",
+    "user_id": "USER002",
+    "date": "2026-06-13",
+    "merchant": "Local Kirana Store",
+    "category": "Food",
+    "type": "expense",
+    "amount": 290,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0304",
+    "user_id": "USER001",
+    "date": "2026-06-14",
+    "merchant": "Third Wave Coffee",
+    "category": "Food",
+    "type": "expense",
+    "amount": 620,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0305",
+    "user_id": "USER001",
+    "date": "2026-06-14",
+    "merchant": "Cult.fit Membership",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 274,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0306",
+    "user_id": "USER002",
+    "date": "2026-06-14",
+    "merchant": "BigBasket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 450,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0307",
+    "user_id": "USER002",
+    "date": "2026-06-14",
+    "merchant": "Flipkart",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 930,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0308",
+    "user_id": "USER001",
+    "date": "2026-06-15",
+    "merchant": "Local Kirana Store",
+    "category": "Food",
+    "type": "expense",
+    "amount": 310,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0309",
+    "user_id": "USER001",
+    "date": "2026-06-15",
+    "merchant": "Namma Metro",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 300,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0310",
+    "user_id": "USER001",
+    "date": "2026-06-15",
+    "merchant": "ACT Fibernet",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1650,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0311",
+    "user_id": "USER002",
+    "date": "2026-06-15",
+    "merchant": "YouTube Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 149,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0312",
+    "user_id": "USER002",
+    "date": "2026-06-15",
+    "merchant": "ACT Fibernet",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1090,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0313",
+    "user_id": "USER001",
+    "date": "2026-06-16",
+    "merchant": "BigBasket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 530,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0314",
+    "user_id": "USER001",
+    "date": "2026-06-16",
+    "merchant": "IRCTC",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 200,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0315",
+    "user_id": "USER001",
+    "date": "2026-06-16",
+    "merchant": "Namma Metro",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 390,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0316",
+    "user_id": "USER001",
+    "date": "2026-06-16",
+    "merchant": "Rapido",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 340,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0317",
+    "user_id": "USER001",
+    "date": "2026-06-17",
+    "merchant": "Swiggy",
+    "category": "Food",
+    "type": "expense",
+    "amount": 340,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0318",
+    "user_id": "USER002",
+    "date": "2026-06-17",
+    "merchant": "Zomato",
+    "category": "Food",
+    "type": "expense",
+    "amount": 280,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0319",
+    "user_id": "USER002",
+    "date": "2026-06-17",
+    "merchant": "Zomato",
+    "category": "Food",
+    "type": "expense",
+    "amount": 450,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0320",
+    "user_id": "USER001",
+    "date": "2026-06-18",
+    "merchant": "Domino's Pizza",
+    "category": "Food",
+    "type": "expense",
+    "amount": 420,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0321",
+    "user_id": "USER001",
+    "date": "2026-06-18",
+    "merchant": "Namma Metro",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 250,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0322",
+    "user_id": "USER002",
+    "date": "2026-06-18",
+    "merchant": "More Supermarket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 420,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0323",
+    "user_id": "USER001",
+    "date": "2026-06-19",
+    "merchant": "Airtel Postpaid",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1190,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0324",
+    "user_id": "USER002",
+    "date": "2026-06-19",
+    "merchant": "Local Kirana Store",
+    "category": "Food",
+    "type": "expense",
+    "amount": 450,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0325",
+    "user_id": "USER002",
+    "date": "2026-06-19",
+    "merchant": "Airtel Postpaid",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1220,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0326",
+    "user_id": "USER001",
+    "date": "2026-06-20",
+    "merchant": "Domino's Pizza",
+    "category": "Food",
+    "type": "expense",
+    "amount": 620,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0327",
+    "user_id": "USER001",
+    "date": "2026-06-20",
+    "merchant": "Zomato",
+    "category": "Food",
+    "type": "expense",
+    "amount": 630,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0328",
+    "user_id": "USER001",
+    "date": "2026-06-21",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 650,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0329",
+    "user_id": "USER002",
+    "date": "2026-06-21",
+    "merchant": "Freelance Project",
+    "category": "Income",
+    "type": "income",
+    "amount": 12000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0330",
+    "user_id": "USER002",
+    "date": "2026-06-22",
+    "merchant": "Barbeque Nation",
+    "category": "Food",
+    "type": "expense",
+    "amount": 230,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0331",
+    "user_id": "USER001",
+    "date": "2026-06-23",
+    "merchant": "Ola",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 340,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0332",
+    "user_id": "USER002",
+    "date": "2026-06-23",
+    "merchant": "Reliance Fresh",
+    "category": "Food",
+    "type": "expense",
+    "amount": 290,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0333",
+    "user_id": "USER002",
+    "date": "2026-06-23",
+    "merchant": "Namma Metro",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 360,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0334",
+    "user_id": "USER001",
+    "date": "2026-06-24",
+    "merchant": "Barbeque Nation",
+    "category": "Food",
+    "type": "expense",
+    "amount": 410,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0335",
+    "user_id": "USER001",
+    "date": "2026-06-24",
+    "merchant": "Reliance Digital",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 760,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0336",
+    "user_id": "USER001",
+    "date": "2026-06-25",
+    "merchant": "BigBasket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 460,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0337",
+    "user_id": "USER001",
+    "date": "2026-06-25",
+    "merchant": "Indian Oil",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 230,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0338",
+    "user_id": "USER001",
+    "date": "2026-06-25",
+    "merchant": "Namma Metro",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 400,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0339",
+    "user_id": "USER001",
+    "date": "2026-06-26",
+    "merchant": "Rapido",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 210,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0340",
+    "user_id": "USER001",
+    "date": "2026-06-26",
+    "merchant": "Rapido",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 430,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0341",
+    "user_id": "USER002",
+    "date": "2026-06-27",
+    "merchant": "BigBasket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 400,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0342",
+    "user_id": "USER002",
+    "date": "2026-06-27",
+    "merchant": "Flipkart",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 450,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0343",
+    "user_id": "USER001",
+    "date": "2026-06-28",
+    "merchant": "Myntra",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 1190,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0344",
+    "user_id": "USER002",
+    "date": "2026-06-28",
+    "merchant": "Amazon",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 840,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0345",
+    "user_id": "USER002",
+    "date": "2026-06-29",
+    "merchant": "Third Wave Coffee",
+    "category": "Food",
+    "type": "expense",
+    "amount": 370,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0346",
+    "user_id": "USER001",
+    "date": "2026-06-30",
+    "merchant": "Croma",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 1230,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0347",
+    "user_id": "USER001",
+    "date": "2026-06-30",
+    "merchant": "Uber",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 290,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0348",
+    "user_id": "USER001",
+    "date": "2026-07-01",
+    "merchant": "House Rent",
+    "category": "Housing",
+    "type": "expense",
+    "amount": 15000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0349",
+    "user_id": "USER001",
+    "date": "2026-07-01",
+    "merchant": "Salary",
+    "category": "Income",
+    "type": "income",
+    "amount": 60000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0350",
+    "user_id": "USER002",
+    "date": "2026-07-01",
+    "merchant": "House Rent",
+    "category": "Housing",
+    "type": "expense",
+    "amount": 12000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0351",
+    "user_id": "USER002",
+    "date": "2026-07-01",
+    "merchant": "Salary",
+    "category": "Income",
+    "type": "income",
+    "amount": 45000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0352",
+    "user_id": "USER002",
+    "date": "2026-07-01",
+    "merchant": "Namma Metro",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 260,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0353",
+    "user_id": "USER001",
+    "date": "2026-07-02",
+    "merchant": "Domino's Pizza",
+    "category": "Food",
+    "type": "expense",
+    "amount": 310,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0354",
+    "user_id": "USER001",
+    "date": "2026-07-02",
+    "merchant": "Netflix",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 649,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0355",
+    "user_id": "USER002",
+    "date": "2026-07-02",
+    "merchant": "Barbeque Nation",
+    "category": "Food",
+    "type": "expense",
+    "amount": 320,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0356",
+    "user_id": "USER002",
+    "date": "2026-07-02",
+    "merchant": "Blinkit",
+    "category": "Food",
+    "type": "expense",
+    "amount": 250,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0357",
+    "user_id": "USER002",
+    "date": "2026-07-02",
+    "merchant": "Reliance Fresh",
+    "category": "Food",
+    "type": "expense",
+    "amount": 250,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0358",
+    "user_id": "USER002",
+    "date": "2026-07-02",
+    "merchant": "Zomato",
+    "category": "Food",
+    "type": "expense",
+    "amount": 420,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0359",
+    "user_id": "USER002",
+    "date": "2026-07-02",
+    "merchant": "Uber",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 260,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0360",
+    "user_id": "USER001",
+    "date": "2026-07-03",
+    "merchant": "Indian Oil",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 380,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0361",
+    "user_id": "USER002",
+    "date": "2026-07-03",
+    "merchant": "BigBasket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 270,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0362",
+    "user_id": "USER002",
+    "date": "2026-07-03",
+    "merchant": "Netflix Mobile",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 199,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0363",
+    "user_id": "USER002",
+    "date": "2026-07-03",
+    "merchant": "HP Petrol Pump",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 470,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0364",
+    "user_id": "USER001",
+    "date": "2026-07-04",
+    "merchant": "Third Wave Coffee",
+    "category": "Food",
+    "type": "expense",
+    "amount": 430,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0365",
+    "user_id": "USER001",
+    "date": "2026-07-04",
+    "merchant": "Spotify Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 199,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0366",
+    "user_id": "USER002",
+    "date": "2026-07-05",
+    "merchant": "Spotify Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 119,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0367",
+    "user_id": "USER001",
+    "date": "2026-07-06",
+    "merchant": "Amazon",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 800,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0368",
+    "user_id": "USER001",
+    "date": "2026-07-06",
+    "merchant": "Amazon Prime",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 299,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0369",
+    "user_id": "USER002",
+    "date": "2026-07-06",
+    "merchant": "BigBasket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 340,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0370",
+    "user_id": "USER002",
+    "date": "2026-07-06",
+    "merchant": "Reliance Fresh",
+    "category": "Food",
+    "type": "expense",
+    "amount": 320,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0371",
+    "user_id": "USER002",
+    "date": "2026-07-06",
+    "merchant": "Ola",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 220,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0372",
+    "user_id": "USER001",
+    "date": "2026-07-08",
+    "merchant": "BESCOM Electricity",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1180,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0373",
+    "user_id": "USER002",
+    "date": "2026-07-08",
+    "merchant": "Blinkit",
+    "category": "Food",
+    "type": "expense",
+    "amount": 480,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0374",
+    "user_id": "USER002",
+    "date": "2026-07-08",
+    "merchant": "Amazon Prime",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 299,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0375",
+    "user_id": "USER002",
+    "date": "2026-07-08",
+    "merchant": "Ola",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 270,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0376",
+    "user_id": "USER002",
+    "date": "2026-07-08",
+    "merchant": "BESCOM Electricity",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 500,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0377",
+    "user_id": "USER001",
+    "date": "2026-07-09",
+    "merchant": "Google One",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 130,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0378",
+    "user_id": "USER002",
+    "date": "2026-07-09",
+    "merchant": "Third Wave Coffee",
+    "category": "Food",
+    "type": "expense",
+    "amount": 270,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0379",
+    "user_id": "USER002",
+    "date": "2026-07-09",
+    "merchant": "Uber",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 420,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0380",
+    "user_id": "USER001",
+    "date": "2026-07-10",
+    "merchant": "Nykaa",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 600,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0381",
+    "user_id": "USER002",
+    "date": "2026-07-10",
+    "merchant": "Local Kirana Store",
+    "category": "Food",
+    "type": "expense",
+    "amount": 480,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0382",
+    "user_id": "USER001",
+    "date": "2026-07-11",
+    "merchant": "YouTube Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 149,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0383",
+    "user_id": "USER001",
+    "date": "2026-07-11",
+    "merchant": "Namma Metro",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 200,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0384",
+    "user_id": "USER001",
+    "date": "2026-07-11",
+    "merchant": "BWSSB Water",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1130,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0385",
+    "user_id": "USER002",
+    "date": "2026-07-11",
+    "merchant": "Indian Oil",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 290,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0386",
+    "user_id": "USER002",
+    "date": "2026-07-11",
+    "merchant": "BWSSB Water",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1070,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0387",
+    "user_id": "USER001",
+    "date": "2026-07-12",
+    "merchant": "Decathlon",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 650,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0388",
+    "user_id": "USER002",
+    "date": "2026-07-12",
+    "merchant": "Google One",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 130,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0389",
+    "user_id": "USER001",
+    "date": "2026-07-13",
+    "merchant": "IRCTC",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 290,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0390",
+    "user_id": "USER001",
+    "date": "2026-07-13",
+    "merchant": "Uber",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 250,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0391",
+    "user_id": "USER001",
+    "date": "2026-07-14",
+    "merchant": "More Supermarket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 330,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0392",
+    "user_id": "USER001",
+    "date": "2026-07-14",
+    "merchant": "More Supermarket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 540,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0393",
+    "user_id": "USER001",
+    "date": "2026-07-14",
+    "merchant": "Flipkart",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 500,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0394",
+    "user_id": "USER001",
+    "date": "2026-07-14",
+    "merchant": "Cult.fit Membership",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 274,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0395",
+    "user_id": "USER002",
+    "date": "2026-07-14",
+    "merchant": "More Supermarket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 270,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0396",
+    "user_id": "USER002",
+    "date": "2026-07-14",
+    "merchant": "Decathlon",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 820,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0397",
+    "user_id": "USER001",
+    "date": "2026-07-15",
+    "merchant": "Rapido",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 250,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0398",
+    "user_id": "USER001",
+    "date": "2026-07-15",
+    "merchant": "Uber",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 220,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0399",
+    "user_id": "USER001",
+    "date": "2026-07-15",
+    "merchant": "ACT Fibernet",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1120,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0400",
+    "user_id": "USER002",
+    "date": "2026-07-15",
+    "merchant": "YouTube Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 149,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0401",
+    "user_id": "USER002",
+    "date": "2026-07-15",
+    "merchant": "Ola",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 240,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0402",
+    "user_id": "USER002",
+    "date": "2026-07-15",
+    "merchant": "ACT Fibernet",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1120,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0403",
+    "user_id": "USER001",
+    "date": "2026-07-16",
+    "merchant": "Indian Oil",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 350,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0404",
+    "user_id": "USER001",
+    "date": "2026-07-17",
+    "merchant": "HP Petrol Pump",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 350,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0405",
+    "user_id": "USER002",
+    "date": "2026-07-17",
+    "merchant": "Uber",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 270,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0406",
+    "user_id": "USER001",
+    "date": "2026-07-18",
+    "merchant": "Reliance Fresh",
+    "category": "Food",
+    "type": "expense",
+    "amount": 360,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0407",
+    "user_id": "USER001",
+    "date": "2026-07-18",
+    "merchant": "Reliance Fresh",
+    "category": "Food",
+    "type": "expense",
+    "amount": 370,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0408",
+    "user_id": "USER001",
+    "date": "2026-07-18",
+    "merchant": "Indian Oil",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 270,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0409",
+    "user_id": "USER001",
+    "date": "2026-07-18",
+    "merchant": "Namma Metro",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 400,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0410",
+    "user_id": "USER001",
+    "date": "2026-07-19",
+    "merchant": "Domino's Pizza",
+    "category": "Food",
+    "type": "expense",
+    "amount": 300,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0411",
+    "user_id": "USER001",
+    "date": "2026-07-19",
+    "merchant": "Airtel Postpaid",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1770,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0412",
+    "user_id": "USER002",
+    "date": "2026-07-19",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 290,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0413",
+    "user_id": "USER002",
+    "date": "2026-07-19",
+    "merchant": "Airtel Postpaid",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1010,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0414",
+    "user_id": "USER001",
+    "date": "2026-07-20",
+    "merchant": "Blinkit",
+    "category": "Food",
+    "type": "expense",
+    "amount": 410,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0415",
+    "user_id": "USER002",
+    "date": "2026-07-20",
+    "merchant": "Local Kirana Store",
+    "category": "Food",
+    "type": "expense",
+    "amount": 450,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0416",
+    "user_id": "USER002",
+    "date": "2026-07-20",
+    "merchant": "Amazon",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 860,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0417",
+    "user_id": "USER001",
+    "date": "2026-07-21",
+    "merchant": "Blinkit",
+    "category": "Food",
+    "type": "expense",
+    "amount": 540,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0418",
+    "user_id": "USER002",
+    "date": "2026-07-23",
+    "merchant": "Third Wave Coffee",
+    "category": "Food",
+    "type": "expense",
+    "amount": 330,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0419",
+    "user_id": "USER001",
+    "date": "2026-07-24",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 400,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0420",
+    "user_id": "USER001",
+    "date": "2026-07-25",
+    "merchant": "Domino's Pizza",
+    "category": "Food",
+    "type": "expense",
+    "amount": 550,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0421",
+    "user_id": "USER001",
+    "date": "2026-07-25",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 570,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0422",
+    "user_id": "USER001",
+    "date": "2026-07-26",
+    "merchant": "Indian Oil",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 340,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0423",
+    "user_id": "USER001",
+    "date": "2026-07-27",
+    "merchant": "Decathlon",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 620,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0424",
+    "user_id": "USER001",
+    "date": "2026-07-27",
+    "merchant": "Myntra",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 830,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0425",
+    "user_id": "USER001",
+    "date": "2026-07-28",
+    "merchant": "Local Kirana Store",
+    "category": "Food",
+    "type": "expense",
+    "amount": 370,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0426",
+    "user_id": "USER001",
+    "date": "2026-07-29",
+    "merchant": "More Supermarket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 410,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0427",
+    "user_id": "USER001",
+    "date": "2026-07-30",
+    "merchant": "More Supermarket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 500,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0428",
+    "user_id": "USER001",
+    "date": "2026-07-30",
+    "merchant": "Swiggy",
+    "category": "Food",
+    "type": "expense",
+    "amount": 310,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0429",
+    "user_id": "USER002",
+    "date": "2026-07-30",
+    "merchant": "Swiggy",
+    "category": "Food",
+    "type": "expense",
+    "amount": 490,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0430",
+    "user_id": "USER002",
+    "date": "2026-07-30",
+    "merchant": "Flipkart",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 1220,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0431",
+    "user_id": "USER001",
+    "date": "2026-07-31",
+    "merchant": "Ola",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 200,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0432",
+    "user_id": "USER002",
+    "date": "2026-07-31",
+    "merchant": "Barbeque Nation",
+    "category": "Food",
+    "type": "expense",
+    "amount": 370,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0433",
+    "user_id": "USER001",
+    "date": "2026-08-01",
+    "merchant": "House Rent",
+    "category": "Housing",
+    "type": "expense",
+    "amount": 15000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0434",
+    "user_id": "USER001",
+    "date": "2026-08-01",
+    "merchant": "Salary",
+    "category": "Income",
+    "type": "income",
+    "amount": 60000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0435",
+    "user_id": "USER001",
+    "date": "2026-08-01",
+    "merchant": "HP Petrol Pump",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 320,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0436",
+    "user_id": "USER002",
+    "date": "2026-08-01",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 440,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0437",
+    "user_id": "USER002",
+    "date": "2026-08-01",
+    "merchant": "House Rent",
+    "category": "Housing",
+    "type": "expense",
+    "amount": 12000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0438",
+    "user_id": "USER002",
+    "date": "2026-08-01",
+    "merchant": "Salary",
+    "category": "Income",
+    "type": "income",
+    "amount": 45000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0439",
+    "user_id": "USER001",
+    "date": "2026-08-02",
+    "merchant": "Netflix",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 649,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0440",
+    "user_id": "USER001",
+    "date": "2026-08-03",
+    "merchant": "Domino's Pizza",
+    "category": "Food",
+    "type": "expense",
+    "amount": 780,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0441",
+    "user_id": "USER002",
+    "date": "2026-08-03",
+    "merchant": "Barbeque Nation",
+    "category": "Food",
+    "type": "expense",
+    "amount": 480,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0442",
+    "user_id": "USER002",
+    "date": "2026-08-03",
+    "merchant": "Third Wave Coffee",
+    "category": "Food",
+    "type": "expense",
+    "amount": 370,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0443",
+    "user_id": "USER002",
+    "date": "2026-08-03",
+    "merchant": "Netflix Mobile",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 199,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0444",
+    "user_id": "USER001",
+    "date": "2026-08-04",
+    "merchant": "Spotify Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 199,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0445",
+    "user_id": "USER001",
+    "date": "2026-08-05",
+    "merchant": "BigBasket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 760,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0446",
+    "user_id": "USER001",
+    "date": "2026-08-05",
+    "merchant": "Blinkit",
+    "category": "Food",
+    "type": "expense",
+    "amount": 700,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0447",
+    "user_id": "USER001",
+    "date": "2026-08-05",
+    "merchant": "Zomato",
+    "category": "Food",
+    "type": "expense",
+    "amount": 640,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0448",
+    "user_id": "USER002",
+    "date": "2026-08-05",
+    "merchant": "Blinkit",
+    "category": "Food",
+    "type": "expense",
+    "amount": 350,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0449",
+    "user_id": "USER002",
+    "date": "2026-08-05",
+    "merchant": "Spotify Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 119,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0450",
+    "user_id": "USER002",
+    "date": "2026-08-05",
+    "merchant": "Uber",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 260,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0451",
+    "user_id": "USER001",
+    "date": "2026-08-06",
+    "merchant": "Amazon Prime",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 299,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0452",
+    "user_id": "USER002",
+    "date": "2026-08-06",
+    "merchant": "Myntra",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 670,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0453",
+    "user_id": "USER001",
+    "date": "2026-08-08",
+    "merchant": "BESCOM Electricity",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1740,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0454",
+    "user_id": "USER002",
+    "date": "2026-08-08",
+    "merchant": "Zomato",
+    "category": "Food",
+    "type": "expense",
+    "amount": 340,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0455",
+    "user_id": "USER002",
+    "date": "2026-08-08",
+    "merchant": "Amazon Prime",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 299,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0456",
+    "user_id": "USER002",
+    "date": "2026-08-08",
+    "merchant": "Ola",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 350,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0457",
+    "user_id": "USER002",
+    "date": "2026-08-08",
+    "merchant": "BESCOM Electricity",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 870,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0458",
+    "user_id": "USER001",
+    "date": "2026-08-09",
+    "merchant": "More Supermarket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 670,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0459",
+    "user_id": "USER001",
+    "date": "2026-08-09",
+    "merchant": "Flipkart",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 2340,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0460",
+    "user_id": "USER001",
+    "date": "2026-08-09",
+    "merchant": "Google One",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 130,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0461",
+    "user_id": "USER002",
+    "date": "2026-08-09",
+    "merchant": "Namma Metro",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 350,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0462",
+    "user_id": "USER001",
+    "date": "2026-08-10",
+    "merchant": "BigBasket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 420,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0463",
+    "user_id": "USER002",
+    "date": "2026-08-10",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 250,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0464",
+    "user_id": "USER001",
+    "date": "2026-08-11",
+    "merchant": "YouTube Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 149,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0465",
+    "user_id": "USER001",
+    "date": "2026-08-11",
+    "merchant": "BWSSB Water",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1360,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0466",
+    "user_id": "USER002",
+    "date": "2026-08-11",
+    "merchant": "Indian Oil",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 400,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0467",
+    "user_id": "USER002",
+    "date": "2026-08-11",
+    "merchant": "BWSSB Water",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 890,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0468",
+    "user_id": "USER002",
+    "date": "2026-08-12",
+    "merchant": "Google One",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 130,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0469",
+    "user_id": "USER001",
+    "date": "2026-08-13",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 700,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0470",
+    "user_id": "USER001",
+    "date": "2026-08-13",
+    "merchant": "Amazon",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 1370,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0471",
+    "user_id": "USER001",
+    "date": "2026-08-14",
+    "merchant": "Swiggy",
+    "category": "Food",
+    "type": "expense",
+    "amount": 690,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0472",
+    "user_id": "USER001",
+    "date": "2026-08-14",
+    "merchant": "Cult.fit Membership",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 274,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0473",
+    "user_id": "USER001",
+    "date": "2026-08-14",
+    "merchant": "Indian Oil",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 360,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0474",
+    "user_id": "USER001",
+    "date": "2026-08-15",
+    "merchant": "ACT Fibernet",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1580,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0475",
+    "user_id": "USER002",
+    "date": "2026-08-15",
+    "merchant": "Reliance Fresh",
+    "category": "Food",
+    "type": "expense",
+    "amount": 480,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0476",
+    "user_id": "USER002",
+    "date": "2026-08-15",
+    "merchant": "YouTube Premium",
+    "category": "Subscriptions",
+    "type": "expense",
+    "amount": 149,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0477",
+    "user_id": "USER002",
+    "date": "2026-08-15",
+    "merchant": "ACT Fibernet",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0478",
+    "user_id": "USER001",
+    "date": "2026-08-16",
+    "merchant": "Rapido",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 600,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0479",
+    "user_id": "USER002",
+    "date": "2026-08-16",
+    "merchant": "More Supermarket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 360,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0480",
+    "user_id": "USER001",
+    "date": "2026-08-17",
+    "merchant": "Namma Metro",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 540,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0481",
+    "user_id": "USER001",
+    "date": "2026-08-19",
+    "merchant": "Airtel Postpaid",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1320,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0482",
+    "user_id": "USER002",
+    "date": "2026-08-19",
+    "merchant": "BigBasket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 230,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0483",
+    "user_id": "USER002",
+    "date": "2026-08-19",
+    "merchant": "Freelance Project",
+    "category": "Income",
+    "type": "income",
+    "amount": 6000,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0484",
+    "user_id": "USER002",
+    "date": "2026-08-19",
+    "merchant": "Airtel Postpaid",
+    "category": "Utilities",
+    "type": "expense",
+    "amount": 1140,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0485",
+    "user_id": "USER001",
+    "date": "2026-08-21",
+    "merchant": "Flipkart",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 1280,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0486",
+    "user_id": "USER002",
+    "date": "2026-08-21",
+    "merchant": "Blinkit",
+    "category": "Food",
+    "type": "expense",
+    "amount": 220,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0487",
+    "user_id": "USER002",
+    "date": "2026-08-21",
+    "merchant": "Myntra",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 620,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0488",
+    "user_id": "USER002",
+    "date": "2026-08-21",
+    "merchant": "Ola",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 300,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0489",
+    "user_id": "USER001",
+    "date": "2026-08-22",
+    "merchant": "IRCTC",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 420,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0490",
+    "user_id": "USER001",
+    "date": "2026-08-23",
+    "merchant": "Decathlon",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 2210,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0491",
+    "user_id": "USER001",
+    "date": "2026-08-23",
+    "merchant": "IRCTC",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 540,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0492",
+    "user_id": "USER001",
+    "date": "2026-08-23",
+    "merchant": "Ola",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 730,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0493",
+    "user_id": "USER002",
+    "date": "2026-08-24",
+    "merchant": "Croma",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 620,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0494",
+    "user_id": "USER002",
+    "date": "2026-08-24",
+    "merchant": "Indian Oil",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 470,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0495",
+    "user_id": "USER002",
+    "date": "2026-08-24",
+    "merchant": "Rapido",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 380,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0496",
+    "user_id": "USER001",
+    "date": "2026-08-25",
+    "merchant": "Local Kirana Store",
+    "category": "Food",
+    "type": "expense",
+    "amount": 360,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0497",
+    "user_id": "USER002",
+    "date": "2026-08-25",
+    "merchant": "More Supermarket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 450,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0498",
+    "user_id": "USER002",
+    "date": "2026-08-25",
+    "merchant": "Third Wave Coffee",
+    "category": "Food",
+    "type": "expense",
+    "amount": 270,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0499",
+    "user_id": "USER002",
+    "date": "2026-08-25",
+    "merchant": "Third Wave Coffee",
+    "category": "Food",
+    "type": "expense",
+    "amount": 400,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0500",
+    "user_id": "USER002",
+    "date": "2026-08-26",
+    "merchant": "Barbeque Nation",
+    "category": "Food",
+    "type": "expense",
+    "amount": 510,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0501",
+    "user_id": "USER002",
+    "date": "2026-08-26",
+    "merchant": "Blinkit",
+    "category": "Food",
+    "type": "expense",
+    "amount": 450,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0502",
+    "user_id": "USER001",
+    "date": "2026-08-27",
+    "merchant": "Domino's Pizza",
+    "category": "Food",
+    "type": "expense",
+    "amount": 410,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0503",
+    "user_id": "USER001",
+    "date": "2026-08-27",
+    "merchant": "Zomato",
+    "category": "Food",
+    "type": "expense",
+    "amount": 580,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0504",
+    "user_id": "USER002",
+    "date": "2026-08-27",
+    "merchant": "Haldiram's",
+    "category": "Food",
+    "type": "expense",
+    "amount": 300,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0505",
+    "user_id": "USER002",
+    "date": "2026-08-27",
+    "merchant": "Amazon",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 690,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0506",
+    "user_id": "USER001",
+    "date": "2026-08-29",
+    "merchant": "Barbeque Nation",
+    "category": "Food",
+    "type": "expense",
+    "amount": 390,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0507",
+    "user_id": "USER001",
+    "date": "2026-08-29",
+    "merchant": "Rapido",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 590,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0508",
+    "user_id": "USER001",
+    "date": "2026-08-30",
+    "merchant": "Zomato",
+    "category": "Food",
+    "type": "expense",
+    "amount": 610,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0509",
+    "user_id": "USER001",
+    "date": "2026-08-31",
+    "merchant": "BigBasket",
+    "category": "Food",
+    "type": "expense",
+    "amount": 790,
+    "currency": "INR"
+  },
+  {
+    "transaction_id": "TXN0510",
+    "user_id": "USER002",
+    "date": "2026-08-31",
+    "merchant": "Namma Metro",
+    "category": "Transport",
+    "type": "expense",
+    "amount": 290,
+    "currency": "INR"
+  }
+]

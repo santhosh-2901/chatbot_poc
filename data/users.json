@@ -1,0 +1,41 @@
+[
+  {
+    "user_id": "USER001",
+    "name": "Ananya Iyer",
+    "currency": "INR",
+    "monthly_income": 60000,
+    "savings_balance": 85000,
+    "goals": [
+      {
+        "goal_id": "GOAL001",
+        "name": "Emergency Fund",
+        "target_amount": 240000,
+        "saved_amount": 60000,
+        "target_date": "2027-06-30"
+      },
+      {
+        "goal_id": "GOAL002",
+        "name": "Laptop Upgrade",
+        "target_amount": 90000,
+        "saved_amount": 15000,
+        "target_date": "2026-12-31"
+      }
+    ]
+  },
+  {
+    "user_id": "USER002",
+    "name": "Rohit Menon",
+    "currency": "INR",
+    "monthly_income": 45000,
+    "savings_balance": 52000,
+    "goals": [
+      {
+        "goal_id": "GOAL003",
+        "name": "Emergency Fund",
+        "target_amount": 168000,
+        "saved_amount": 40000,
+        "target_date": "2027-09-30"
+      }
+    ]
+  }
+]

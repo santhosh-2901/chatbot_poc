@@ -1,0 +1,49 @@
+[
+  {
+    "user_id": "USER001",
+    "currency": "INR",
+    "effective_from": "2026-03-01",
+    "monthly_budget": {
+      "Housing": 15000,
+      "Food": 7500,
+      "Shopping": 5000,
+      "Transport": 4300,
+      "Utilities": 6200,
+      "Subscriptions": 2000
+    },
+    "savings_target": 15000,
+    "upcoming_expenses": [
+      {
+        "name": "Annual health insurance premium",
+        "amount": 18000,
+        "due_date": "2026-09-15"
+      },
+      {
+        "name": "Festival travel booking",
+        "amount": 12000,
+        "due_date": "2026-10-05"
+      }
+    ]
+  },
+  {
+    "user_id": "USER002",
+    "currency": "INR",
+    "effective_from": "2026-03-01",
+    "monthly_budget": {
+      "Housing": 12000,
+      "Food": 6000,
+      "Shopping": 3000,
+      "Transport": 3000,
+      "Utilities": 4000,
+      "Subscriptions": 1000
+    },
+    "savings_target": 10000,
+    "upcoming_expenses": [
+      {
+        "name": "Two-wheeler service",
+        "amount": 4500,
+        "due_date": "2026-09-20"
+      }
+    ]
+  }
+]
